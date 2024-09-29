@@ -1,0 +1,262 @@
+﻿Medicine,Mechanism,Indication,ADR
+Phenytoin,Na blocker,"Epilepsy 
+Status epilepticus","Gingival hyperplasia
+Hirsutism
+Acne 
+Teratogenic
+Drug interaction
+Drug allergy"
+Carbamazepine,Na blocker,"Neuropathic pain
+Epilepsy","SIADH
+Ataxia
+Agranulocytosis
+Metallic taste
+Drug allergy"
+Valproate,Na / Ca blocker,"Epilepsy
+Neuropathic pain
+Migraine prophylaxis
+Mania","Weight gain 
+Tremor
+Liver toxic
+Teratogenic"
+Lamotrigine,Na / Ca blocker,Epilepsy,Drug allergy
+Topiramate,Na blocker,"Epilepsy
+Migraine prophylaxis","Myopia
+Weight loss
+Teratogenic"
+Felbamate,NMDAr antagonist,seizure,Agranulocytosis
+Lorazepam,GABAr agonist,"Epilepsy
+Status epilepticus
+Anxiety
+Insomnia","Amnesia
+Sedation"
+Diazepam ,GABAr agonist,"Epilepsy
+Status epilepticus
+Anxiety
+Insomnia
+Muscle spasm","Amnesia
+Sedation
+Drug interaction"
+Phenobarbital,GABAr agonist,Epilepsy,"Respiratory depression
+Sedation"
+Vigabatrin,GABA-T antagonist,Epilepsy,Eye toxicity
+Gabapentin,Unknown,"Epilepsy
+Neuropathic pain","Dizziness
+Sedation"
+Levetiracetam,Inhibit vesicle binding ,Epilepsy,well tolerated
+Chlorpromazine,DA antagonist (1gen),Schizophrenia,"constipation
+cycloplegia
+dry eye
+dry mouth
+hyperprolactinemia
+orthostatic hypotension
+sedation
+urinary retention
+dystonia
+dyskinesia
+parkinsonism
+weight gain"
+Haloperidol,DA antagonist (1gen),Schizophrenia,"hyperprolactinemia
+dystonia
+dyskinesia
+parkinsonism"
+Clozapine,D / 5-HT2 antagonist (2gen),Schizophrenia,"constipation
+cycloplegia
+dry eye
+dry mouth
+sedation
+seizure
+urinary retention
+agranulocytosis
+weight gain"
+Olanzapine,D / 5-HT2 antagonist (2gen),Schizophrenia,"constipation
+cycloplegia
+dry eye
+dry mouth
+sedation
+urinary retention
+weight gain"
+Quetiapine,D / 5-HT2 antagonist (2gen),Schizophrenia,weight gain
+Risperidone,D / 5-HT2 antagonist (2gen),Schizophrenia,"Parkinsonism
+weight gain"
+Ziprasidone,D / 5-HT2 antagonist (2gen),Schizophrenia,arrhythmia
+Aripiprazole,Partial D agonist (2gen),Schizophrenia,N/V
+Lithium,IP3 inhibitor,"Mania 
+Bipolar","polyuria
+polydipsia
+Weight gain
+Tremor
+Metallic taste
+Acne 
+Teratogenic"
+amitriptylin,TCA,"depression
+insomnia
+migraine prophylaxis","constipation
+dry eye
+dry mouth
+orthostatic hypotension
+sedation
+urinary retention
+weight gain"
+nortriptylin,TCA,"depression
+smoking","constipation
+dry eye
+dry mouth
+orthostatic hypotension
+urinary retention"
+imipramine,TCA,depression,"constipation
+dry eye
+dry mouth
+urinary retention"
+fluoxetine,Inhibit SERT,depression,"Diarrhea
+Suicidal ideation
+appetite suppressant"
+sertraline,Inhibit SERT,Depression,"Diarrhea 
+Suicidal ideation"
+venlafaxine,Inhibit SERT & NET,depression,"Diarrhea
+Suicidal ideation"
+Duloxetine,Inhibit SERT & NET,Depression,"Diarrhea
+Suicidal ideation"
+trazodone,atypical antidepressant,"Depression 
+Insomnia","sedation
+Priapism"
+Bupropion,Block DAT,"Depression 
+Smoking","Anxiety
+Insomnia
+agitation
+Seizure"
+Esketamine,NMDA antagonist,Depression,Hallucination
+Pilocarpine,M3 agonist,"Induce miosis
+Glaucoma
+Dry eye","Lacrimation
+Retinal detachment"
+Tropicamide,M3 antagonist,Induce mydriasis,"Cycloplegia
+Glaucoma"
+Phenylephrine,alpha1 agonist,"Induce mydriasis
+Glaucoma","Hypertension 
+Bradycardia
+Urinary retention
+Insomnia"
+Latanoprost,PGF2 analog,Glaucoma (1st line),"Blurred vision
+Hyperpigmentation
+Hypertrichosis"
+Timolol,Non-selective beta antagonist,Glaucoma,"Bronchoconstriction 
+Bradycardia
+Hypotension"
+Brimonidine,alpha2 agonist,Glaucoma,"Blurred vision
+Eye irritation"
+acetazolamide,CA inhibitor,Glaucoma,"Frequent urination
+Nephrolithiasis"
+Dorzolamide,CA inhibitor,Glaucoma,Blurred vision
+Cyclosporine,Immunosuppressant,Dry eye,"Blurred vision
+Eye infection"
+"
+Dexamethasone",corticosteroid,"Dry eye
+Eye inflammation","Cushing syndrome
+Glaucoma
+Cataract"
+Ergotamine,5-HT agonist,Migraine,"Raynaud syndrome
+Uterine contraction
+Teratogenic"
+Sumatriptan,5-HT 1D agonist,Migraine,Coronary vasospasm
+Cinnarizine,Ca blocker,"Dizziness
+Vertigo
+Migraine prophylaxis",Parkinsonism
+Flunarizine,Ca blocker,"Dizziness
+Vertigo
+Migraine prophylaxis",Parkinsonism
+Scopolamine,M antagonist,Motion sickness,"Sedation
+Dry eye
+Constipation"
+Dimenhydrinate,H1 antagonist,"Motion sickness
+Dizziness
+Vertigo ","Hallucination
+Sedation
+Dry eye
+Glaucoma"
+Betahistine,H1 agonist,"Dizziness
+Vertigo",Weight loss
+Zolpidem,GABA agonist,insomnia,Sedation
+Dextroamphetamine,VMAT inhibitor,"ADHD
+Narcolepsy","Agitation
+Insomnia
+Growth restriction"
+Methylphenidate,DAT inhibitor,"ADHD
+Narcolepsy","Agitation
+Insomnia
+Growth restriction"
+Morphine,Opioid agonist,Pain,"Skin itching
+Respiratory depression
+Orthostatic hypotension
+Sedation
+Constipation
+Uterine relaxation
+N/V
+Miosis
+Urinary retention"
+Pethidine,Opioid agonist,Pain,"Seizure
+Skin itching
+Respiratory depression
+Orthostatic hypotension
+Sedation
+Constipation
+Uterine relaxation
+N/V
+Miosis
+Urinary retention"
+Fentanyl,Opioid agonist,Pain,"Skin itching
+Respiratory depression
+Orthostatic hypotension
+Sedation
+Constipation
+Uterine relaxation
+N/V
+Miosis
+Urinary retention"
+Methadone,Opioid agonist,Opioid addiction,"Respiratory depression
+Orthostatic hypotension
+Sedation
+Constipation
+Uterine relaxation
+N/V
+Miosis
+Urinary retention"
+Codeine,Partial opioid agonist,"Pain 
+Dry cough","Respiratory depression
+Orthostatic hypotension
+Sedation
+Constipation
+Uterine relaxation
+N/V
+Miosis
+Urinary retention"
+Oxycodone,Partial opioid agonist,Pain,"Orthostatic hypotension
+Sedation
+Constipation
+Uterine relaxation
+N/V
+Miosis
+Urinary retention"
+Tramadol,Block NET & SERT,Pain,"Seizure
+Dizziness"
+Buprenorphine,Mixed opioid agonist/antagonist,Opioid addiction,"Sedation 
+Constipation"
+Naloxone,Opioid antagonist,Opioid overdose,Dysphoria
+Naltrexone,Opioid antagonist,"Opioid addiction
+Alcohol addiction",Dysphoria
+Halothane,GABA agonist,Inhaled anesthetics,Liver toxicity
+Propofol,GABA agonist,Intravenous anesthetics,"Green urine
+Respiratory depression
+Pain at injection site"
+Ketamine,NMDA antagonist,Intravenous anesthetics,Hallucination
+Procaine,Block Na channel,Local anesthetics,Drug allergy
+Lidocaine,Block Na channel,Local anesthetics,"Arrhythmia
+Seizure"
+memantine,NMDA antagonist,alzheimer,Hallucination
+benseraside,DDC inhibitor,parkinson,well tolerated
+selegiline,mao-b inhibitor,parkinson,"psychosis
+hallucimation
+dyskinesia
+anxeity
+agitation
+insomnia"

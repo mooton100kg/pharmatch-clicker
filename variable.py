@@ -1,4 +1,4 @@
-threshold = 0.8
+threshold = 0.75
 image_dir = 'image'  
-scale_factor = 0.5
-
+scale_factor = 1
+csv_path = '309.csv'
